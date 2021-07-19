@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/MyNotepad/static/js/main.d1a56c23.chunk.js",
+    "main.js.map": "/MyNotepad/static/js/main.d1a56c23.chunk.js.map",
+    "runtime-main.js": "/MyNotepad/static/js/runtime-main.526427ce.js",
+    "runtime-main.js.map": "/MyNotepad/static/js/runtime-main.526427ce.js.map",
+    "static/js/2.606b1192.chunk.js": "/MyNotepad/static/js/2.606b1192.chunk.js",
+    "static/js/2.606b1192.chunk.js.map": "/MyNotepad/static/js/2.606b1192.chunk.js.map",
+    "index.html": "/MyNotepad/index.html",
+    "precache-manifest.8b90714066624e8b7b14df4951a9556c.js": "/MyNotepad/precache-manifest.8b90714066624e8b7b14df4951a9556c.js",
+    "service-worker.js": "/MyNotepad/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.526427ce.js",
+    "static/js/2.606b1192.chunk.js",
+    "static/js/main.d1a56c23.chunk.js"
+  ]
+}
